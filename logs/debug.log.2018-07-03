@@ -1,0 +1,67 @@
+2018-07-03 16:54:17  [ main:0 ] - [ INFO ]  start to process SemSearch_ES-139...
+2018-07-03 16:56:45  [ main:148326 ] - [ INFO ]  start to process SemSearch_ES-141...
+2018-07-03 16:58:01  [ main:224125 ] - [ INFO ]  start to process SemSearch_LS-1...
+2018-07-03 16:59:41  [ main:324515 ] - [ INFO ]  start to process SemSearch_LS-2...
+2018-07-03 17:02:45  [ main:508259 ] - [ INFO ]  start to process SemSearch_LS-3...
+2018-07-03 17:19:24  [ main:0 ] - [ INFO ]  start to process SemSearch_ES-139...
+2018-07-03 17:26:36  [ main:0 ] - [ INFO ]  start to process SemSearch_ES-139...
+2018-07-03 17:34:03  [ main:0 ] - [ INFO ]  start to process SemSearch_ES-139...
+2018-07-03 17:38:10  [ main:0 ] - [ INFO ]  start to process SemSearch_ES-139...
+2018-07-03 17:38:11  [ main:732 ] - [ INFO ]  run times: 0s
+2018-07-03 17:38:12  [ main:1252 ] - [ INFO ]  run times: 0s
+2018-07-03 17:38:12  [ main:1527 ] - [ INFO ]  run times: 0s
+2018-07-03 17:38:15  [ main:4928 ] - [ INFO ]  run times: 3s
+2018-07-03 17:38:16  [ main:5371 ] - [ INFO ]  run times: 0s
+2018-07-03 17:38:16  [ main:5803 ] - [ INFO ]  run times: 0s
+2018-07-03 17:38:16  [ main:6021 ] - [ INFO ]  run times: 0s
+2018-07-03 17:38:17  [ main:6429 ] - [ INFO ]  run times: 0s
+2018-07-03 17:38:17  [ main:6707 ] - [ INFO ]  run times: 0s
+2018-07-03 17:38:17  [ main:6956 ] - [ INFO ]  run times: 0s
+2018-07-03 17:38:18  [ main:7514 ] - [ INFO ]  run times: 0s
+2018-07-03 17:38:18  [ main:7710 ] - [ INFO ]  run times: 0s
+2018-07-03 17:38:18  [ main:7859 ] - [ INFO ]  run times: 0s
+2018-07-03 17:38:18  [ main:8130 ] - [ INFO ]  run times: 0s
+2018-07-03 17:38:19  [ main:8886 ] - [ INFO ]  run times: 0s
+2018-07-03 17:38:20  [ main:9362 ] - [ INFO ]  run times: 0s
+2018-07-03 17:38:20  [ main:9795 ] - [ INFO ]  run times: 0s
+2018-07-03 17:38:20  [ main:9942 ] - [ INFO ]  run times: 0s
+2018-07-03 17:38:21  [ main:10980 ] - [ INFO ]  run times: 1s
+2018-07-03 17:38:35  [ main:0 ] - [ INFO ]  start to process SemSearch_ES-139...
+2018-07-03 17:38:37  [ main:1756 ] - [ INFO ]  run times: 885ms
+2018-07-03 17:38:38  [ main:2596 ] - [ INFO ]  run times: 840ms
+2018-07-03 17:38:38  [ main:2768 ] - [ INFO ]  run times: 171ms
+2018-07-03 17:38:48  [ main:12422 ] - [ INFO ]  run times: 9654ms
+2018-07-03 17:38:53  [ main:18159 ] - [ INFO ]  run times: 5735ms
+2018-07-03 17:38:59  [ main:23270 ] - [ INFO ]  run times: 5110ms
+2018-07-03 17:39:00  [ main:24337 ] - [ INFO ]  run times: 1067ms
+2018-07-03 17:39:05  [ main:29464 ] - [ INFO ]  run times: 5127ms
+2018-07-03 17:39:06  [ main:30264 ] - [ INFO ]  run times: 800ms
+2018-07-03 17:39:07  [ main:31650 ] - [ INFO ]  run times: 1385ms
+2018-07-03 17:39:09  [ main:33751 ] - [ INFO ]  run times: 2101ms
+2018-07-03 17:39:11  [ main:35634 ] - [ INFO ]  run times: 1883ms
+2018-07-03 17:39:12  [ main:37185 ] - [ INFO ]  run times: 1550ms
+2018-07-03 17:39:17  [ main:41841 ] - [ INFO ]  run times: 4655ms
+2018-07-03 17:39:23  [ main:47309 ] - [ INFO ]  run times: 5467ms
+2018-07-03 17:40:00  [ main:0 ] - [ INFO ]  start to process SemSearch_ES-139...
+2018-07-03 17:40:36  [ main:36162 ] - [ INFO ]  run times: 35654ms
+2018-07-03 17:40:49  [ main:48878 ] - [ INFO ]  run times: 12716ms
+2018-07-03 17:40:49  [ main:49059 ] - [ INFO ]  run times: 180ms
+2018-07-03 17:40:54  [ main:54249 ] - [ INFO ]  run times: 5190ms
+2018-07-03 17:40:55  [ main:54890 ] - [ INFO ]  run times: 637ms
+2018-07-03 17:40:55  [ main:55246 ] - [ INFO ]  run times: 355ms
+2018-07-03 17:40:55  [ main:55492 ] - [ INFO ]  run times: 246ms
+2018-07-03 17:40:56  [ main:56132 ] - [ INFO ]  run times: 639ms
+2018-07-03 17:40:58  [ main:58401 ] - [ INFO ]  run times: 2269ms
+2018-07-03 17:40:58  [ main:58589 ] - [ INFO ]  run times: 187ms
+2018-07-03 17:40:58  [ main:58809 ] - [ INFO ]  run times: 219ms
+2018-07-03 17:40:59  [ main:58956 ] - [ INFO ]  run times: 147ms
+2018-07-03 17:40:59  [ main:59137 ] - [ INFO ]  run times: 181ms
+2018-07-03 17:40:59  [ main:59328 ] - [ INFO ]  run times: 191ms
+2018-07-03 17:40:59  [ main:59811 ] - [ INFO ]  run times: 482ms
+2018-07-03 17:41:01  [ main:61263 ] - [ INFO ]  run times: 1451ms
+2018-07-03 17:41:03  [ main:63737 ] - [ INFO ]  run times: 2474ms
+2018-07-03 17:41:04  [ main:63877 ] - [ INFO ]  run times: 140ms
+2018-07-03 17:41:04  [ main:64552 ] - [ INFO ]  run times: 675ms
+2018-07-03 17:41:04  [ main:64787 ] - [ INFO ]  run times: 234ms
+2018-07-03 18:17:09  [ main:0 ] - [ INFO ]  start to process SemSearch_ES-139...
+2018-07-03 18:40:11  [ main:0 ] - [ INFO ]  start to process SemSearch_ES-139...

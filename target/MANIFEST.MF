@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: mabo
+Class-Path: lib/mongodb-driver-3.2.2.jar lib/mongodb-driver-core-3.2.2
+ .jar lib/bson-3.2.2.jar lib/slf4j-api-1.7.7.jar lib/commons-lang-2.6.
+ jar lib/log4j-1.2.17.jar lib/jackson-jaxrs-1.9.13.jar lib/jackson-cor
+ e-asl-1.9.13.jar lib/jackson-mapper-asl-1.9.13.jar lib/lucene-core-3.
+ 6.2.jar lib/neo4j-java-driver-1.6.1.jar
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_45
+Main-Class: org.lhs.mabo.Main
+

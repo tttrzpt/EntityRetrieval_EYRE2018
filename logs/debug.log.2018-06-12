@@ -1,0 +1,47 @@
+2018-06-12 19:21:18  [ main:0 ] - [ INFO ]  start to process disambiguations_en.ttl......
+2018-06-12 19:21:20  [ main:2200 ] - [ INFO ]  insert 10000 documents into disambiguations_en
+2018-06-12 19:21:23  [ main:5436 ] - [ INFO ]  insert 10000 documents into disambiguations_en
+2018-06-12 19:21:26  [ main:8525 ] - [ INFO ]  insert 10000 documents into disambiguations_en
+2018-06-12 19:21:28  [ main:10031 ] - [ INFO ]  insert 10000 documents into disambiguations_en
+2018-06-12 19:21:29  [ main:11188 ] - [ INFO ]  insert 10000 documents into disambiguations_en
+2018-06-12 19:21:32  [ main:14182 ] - [ INFO ]  insert 10000 documents into disambiguations_en
+2018-06-12 19:21:34  [ main:16500 ] - [ INFO ]  insert 10000 documents into disambiguations_en
+2018-06-12 19:21:35  [ main:17547 ] - [ INFO ]  insert 10000 documents into disambiguations_en
+2018-06-12 19:21:36  [ main:18744 ] - [ INFO ]  insert 10000 documents into disambiguations_en
+2018-06-12 19:21:38  [ main:20636 ] - [ INFO ]  insert 10000 documents into disambiguations_en
+2018-06-12 19:21:40  [ main:22063 ] - [ INFO ]  insert 10000 documents into disambiguations_en
+2018-06-12 19:21:44  [ main:26054 ] - [ INFO ]  insert 10000 documents into disambiguations_en
+2018-06-12 19:21:46  [ main:28900 ] - [ INFO ]  insert 10000 documents into disambiguations_en
+2018-06-12 19:21:49  [ main:31436 ] - [ INFO ]  insert 10000 documents into disambiguations_en
+2018-06-12 19:21:51  [ main:33022 ] - [ INFO ]  insert 10000 documents into disambiguations_en
+2018-06-12 19:21:52  [ main:34622 ] - [ INFO ]  insert 10000 documents into disambiguations_en
+2018-06-12 19:21:54  [ main:36482 ] - [ INFO ]  insert 10000 documents into disambiguations_en
+2018-06-12 19:21:56  [ main:37944 ] - [ INFO ]  insert 10000 documents into disambiguations_en
+2018-06-12 19:21:57  [ main:39157 ] - [ INFO ]  insert 10000 documents into disambiguations_en
+2018-06-12 19:21:58  [ main:40698 ] - [ INFO ]  insert 10000 documents into disambiguations_en
+2018-06-12 19:22:00  [ main:42165 ] - [ INFO ]  insert 10000 documents into disambiguations_en
+2018-06-12 19:22:02  [ main:43930 ] - [ INFO ]  insert 10000 documents into disambiguations_en
+2018-06-12 19:22:05  [ main:47127 ] - [ INFO ]  insert 10000 documents into disambiguations_en
+2018-06-12 19:22:07  [ main:49682 ] - [ INFO ]  insert 10000 documents into disambiguations_en
+2018-06-12 19:22:41  [ main:0 ] - [ INFO ]  start to process category_labels_en.ttl......
+2018-06-12 19:23:48  [ main:0 ] - [ INFO ]  start to process category_labels_en.ttl......
+2018-06-12 19:26:21  [ main:0 ] - [ INFO ]  start to process category_labels_en.ttl......
+2018-06-12 19:26:28  [ main:7634 ] - [ INFO ]  insert 10000 documents into category_labels_en
+2018-06-12 19:26:30  [ main:9636 ] - [ INFO ]  insert 10000 documents into category_labels_en
+2018-06-12 19:26:32  [ main:11733 ] - [ INFO ]  insert 10000 documents into category_labels_en
+2018-06-12 19:26:34  [ main:13643 ] - [ INFO ]  insert 10000 documents into category_labels_en
+2018-06-12 19:26:36  [ main:15401 ] - [ INFO ]  insert 10000 documents into category_labels_en
+2018-06-12 19:26:37  [ main:16274 ] - [ INFO ]  insert 10000 documents into category_labels_en
+2018-06-12 19:26:38  [ main:16944 ] - [ INFO ]  insert 10000 documents into category_labels_en
+2018-06-12 19:26:39  [ main:18280 ] - [ INFO ]  insert 10000 documents into category_labels_en
+2018-06-12 19:26:40  [ main:19238 ] - [ INFO ]  insert 10000 documents into category_labels_en
+2018-06-12 19:26:41  [ main:19963 ] - [ INFO ]  insert 10000 documents into category_labels_en
+2018-06-12 19:26:41  [ main:20660 ] - [ INFO ]  insert 10000 documents into category_labels_en
+2018-06-12 19:26:42  [ main:21451 ] - [ INFO ]  insert 10000 documents into category_labels_en
+2018-06-12 19:26:43  [ main:22259 ] - [ INFO ]  insert 10000 documents into category_labels_en
+2018-06-12 19:26:44  [ main:23360 ] - [ INFO ]  insert 10000 documents into category_labels_en
+2018-06-12 19:26:45  [ main:24526 ] - [ INFO ]  insert 10000 documents into category_labels_en
+2018-06-12 19:26:46  [ main:25611 ] - [ INFO ]  insert 10000 documents into category_labels_en
+2018-06-12 19:26:47  [ main:26509 ] - [ INFO ]  insert 10000 documents into category_labels_en
+2018-06-12 19:26:48  [ main:27351 ] - [ INFO ]  insert 10000 documents into category_labels_en
+2018-06-12 19:26:49  [ main:28014 ] - [ INFO ]  insert 10000 documents into category_labels_en

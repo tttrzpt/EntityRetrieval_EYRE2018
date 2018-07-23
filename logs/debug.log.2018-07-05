@@ -1,0 +1,14 @@
+2018-07-05 12:53:25  [ main:0 ] - [ INFO ]  start to load short_abstracts_en...
+2018-07-05 12:56:52  [ main:0 ] - [ INFO ]  start to load short_abstracts_en...
+2018-07-05 18:18:30  [ main:1 ] - [ INFO ]  run times: 2s
+2018-07-05 18:19:21  [ main:1 ] - [ INFO ]  run times: 1s
+2018-07-05 18:21:02  [ main:0 ] - [ INFO ]  run times: 0s
+2018-07-05 19:34:26  [ main:0 ] - [ INFO ]  start to load short_abstracts_en...
+2018-07-05 19:42:18  [ main:0 ] - [ INFO ]  start to process collection: bm25f_ca_v2
+2018-07-05 19:42:21  [ main:3107 ] - [ INFO ]  processed 10000
+2018-07-05 19:42:21  [ main:3114 ] - [ INFO ]  processed 20000
+2018-07-05 19:42:23  [ main:4982 ] - [ INFO ]  processed 30000
+2018-07-05 19:42:23  [ main:4986 ] - [ INFO ]  processed 40000
+2018-07-05 19:42:23  [ main:4992 ] - [ INFO ]  processed 50000
+2018-07-05 19:42:25  [ main:6788 ] - [ INFO ]  processed 60000
+2018-07-05 19:42:25  [ main:6794 ] - [ INFO ]  processed 70000
